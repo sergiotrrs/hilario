@@ -1,0 +1,5 @@
+INSERT INTO `db_example`.`user` (`first_name`,`last_name`,`email`,`avatar`) VALUES ('Patricio','Estrella','mane@email.com','https://randomuser.me/api/portraits/men/30.jpg');
+INSERT INTO `db_example`.`user` (`first_name`,`last_name`,`email`,`avatar`) VALUES ('Selena','Gómez','mane@email.com','https://randomuser.me/api/portraits/women/26.jpg');
+INSERT INTO `db_example`.`user` (`first_name`,`last_name`,`email`,`avatar`) VALUES ('Benito','Bodoque','mane@email.com','https://randomuser.me/api/portraits/men/38.jpg');
+INSERT INTO `db_example`.`user` (`first_name`,`last_name`,`email`,`avatar`) VALUES ('Edna','Krabappel','mane@email.com','https://randomuser.me/api/portraits/women/28.jpg');
+INSERT INTO `db_example`.`user` (`first_name`,`last_name`,`email`,`avatar`) VALUES ('Cristiano','Ronado','mane@email.com','https://randomuser.me/api/portraits/men/20.jpg');
